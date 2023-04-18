@@ -1,0 +1,15 @@
+start new game | code |  round = 1 data = 1 type = thes answer is out of range | 
+
+ round = 2 data = 654 type = thes answer is out of range | 
+
+ round = 3 data = 68478 type = thes answer is out of range | 
+
+ round = 4 data = 9846 type = thes answer is out of range | 
+
+ round = 5 data = 21318 type = thes answer is out of range | 
+
+ round = 7 data = 8984 type = thes answer is out of range | 
+
+ round = 8 data = 13 type = thes answer is out of range | 
+
+ 
